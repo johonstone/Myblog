@@ -1,2 +1,2 @@
-# vuepress
-mypress
+# Vitepress
+myblog
